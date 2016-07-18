@@ -1,0 +1,2 @@
+GET services
+Columns:host_name host_address service_description state plugin_output
